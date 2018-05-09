@@ -14,6 +14,6 @@ To reproduce a publication figures:
 
 3) Modify line 3 of MammaSeq.Github.R script to set publication directory on your local machine as userDirectory
 
-4) Run MammaSeq.Github.R script to produce figures in dataOutput directory
+4) Run MammaSeq.Github.R script to produce figures
 
 Good luck...!
