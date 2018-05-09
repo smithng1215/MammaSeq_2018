@@ -1,6 +1,6 @@
 #############################################################################################################
 # set working directory to jamaOncology_2016
-userDirectory <- "~/Desktop/MammaSeq_2018-Master"
+userDirectory <- "~/Desktop/MammaSeq_2018-master"
 setwd(userDirectory)
 
 # prerequisite packages, be sure these are already installed using installRequiredPackages.R
